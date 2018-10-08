@@ -187,7 +187,7 @@ then
 clear
 echo -e $green" Meginstall Wifi-Hacker "
 sleep 1
-https://github.com/esc0rtd3w/wifi-hacker
+git clone https://github.com/esc0rtd3w/wifi-hacker
 echo -e $green "Berhasil Menginstall"
 cd wifi-hacker
 chmod +x wifi-hacker.sh
